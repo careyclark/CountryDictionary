@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CountryDictionary", "CountryDictionary.pyproj", "{DBCCB704-E239-4A91-9117-6386E3DB4A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCCB704-E239-4A91-9117-6386E3DB4A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCCB704-E239-4A91-9117-6386E3DB4A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CE9DF7D-9B14-42D3-A56C-A0E943DB1186}
+	EndGlobalSection
+EndGlobal
